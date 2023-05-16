@@ -54,10 +54,7 @@ MIT License
 - [Git](https://git-scm.com/)
 
 ```
-```
-
-# Path: backend/README.md
-...
+``` 
 
 # Server Application
 
