@@ -33,5 +33,25 @@ npm run dev
 2. Open the following address in your browser: [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 ```arduino
-[http://localhost:3000]
+http://localhost:3000
+```
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+
+```arduino
+MIT License
+```
+
+## Acknowledgments
+
+- [Next.js](https://nextjs.org/)
+- [React](https://reactjs.org/)
+- [Node.js](https://nodejs.org/en/)
+- [npm](https://www.npmjs.com/)
+- [Visual Studio Code](https://code.visualstudio.com/)
+- [Git](https://git-scm.com/)
+
+```
 ```
