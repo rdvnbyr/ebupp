@@ -33,5 +33,5 @@ npm run dev
 2. Open the following address in your browser: [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 ```arduino
-http://localhost:3000
+[http://localhost:3000]
 ```
